@@ -6,7 +6,7 @@ This repository contains the project files and documentation for a **multi-outpu
 - 3.3V Buck DC-DC converter with feedback loop
 
 Designed using **LTspice** and **PSIM**  
-Project completed as part of university studies in **Power Supplies** (UTCN – Faculty of Electronics)  
+Project completed as part of university studies in **Power Supplies** (UTCN – Faculty of Electronics, Telecommunications and Information Technology)  
 
 ---
 
