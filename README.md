@@ -11,8 +11,8 @@ Project completed as part of university studies in **Power Supplies** (UTCN – 
 ---
 
 ## Repository Structure
-- LTspice/ # .asc simulation files for each block
-- PSIM/ # feedback loop + PWM control
-- regulators.lib # component library
-- Power supply.pdf # documentation
-- Power supply.pptx # presentation
+- LTspice → .asc simulation files for each block
+- PSIM → feedback loop + PWM control
+- regulators.lib → component library
+- Power supply.pdf → documentation
+- Power supply.pptx → presentation
